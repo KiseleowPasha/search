@@ -1,0 +1,12 @@
+[
+    {"name":"Iphone","price":"300","itIs":true,"img":"https://img.mvideo.ru/Pdb/30052900b.jpg"},
+    {"name":"Ipad","price":"250","itIs":true,"img":"https://img.mvideo.ru/Pdb/30052637b.jpg"},
+    {"name":"AirPods","price":"100","itIs":true,"img":"https://img.mvideo.ru/Pdb/50126638b.jpg"},
+    {"name":"Galaxy","price":"150","itIs":false,"img":"https://img.mvideo.ru/Pdb/30047907b.jpg"},
+    {"name":"Galaxy Tab","price":"200","itIs":true,"img":"https://img.mvideo.ru/Pdb/30043309b.jpg"},
+    {"name":"Huawey","price":"50","itIs":true,"img":"https://img.mvideo.ru/Pdb/30043038b.jpg"},
+    {"name":"Huawey Pro","price":"80","itIs":false,"img":"https://img.mvideo.ru/Pdb/30050948b.jpg"},
+    {"name":"MacBook Air","price":"400","itIs":false,"img":"https://img.mvideo.ru/Pdb/30054296b.jpg"},
+    {"name":"MacBook Pro","price":"500","itIs":true,"img":"https://img.mvideo.ru/Pdb/30053807b.jpg"},
+    {"name":"Imac","price":"600","itIs":true,"img":"https://img.mvideo.ru/Pdb/30051525b.jpg"}
+]

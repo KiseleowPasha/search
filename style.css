@@ -1,0 +1,34 @@
+.root{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: center;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    margin: 0.1% 2%;
+    flex-wrap: wrap;
+    width: 15%;
+}
+.yes{
+    color: green;
+}
+.no{
+    color: red;
+}
+.product-pic{
+    width: 100%;
+}
+form{
+    width: 65%;
+}
+input{
+    margin: 0;
+}
+.checkbox{
+    display: flex;
+    align-items: center;
+    width: 30%;
+    justify-content: space-evenly;
+}
